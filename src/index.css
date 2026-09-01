@@ -4,15 +4,11 @@
 
 body {
   font-family: 'Inter', sans-serif;
+  background: #000;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #000;
 }
 
 .font-pixel {
   font-family: 'basis33', monospace;
-}
-
-html {
-  scroll-behavior: smooth;
 }
